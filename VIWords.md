@@ -6,6 +6,7 @@
 |CPU|Center Processing Unit|中央处理单元
 |RAM|Random Access Memory|随机存储器
 |ROM|Read-Only Memory|只读内存
+|LIFO|Last In First Out|后进先出
 
 
 |Ｗｏｒｄ|||
@@ -71,9 +72,13 @@
 |Effective| 有效的| [ɪ'fektɪv]
 |Segment|n.段，vt.分割|['segm(ə)nt]
 |Increase|增加| [ɪn'kriːs]
-|Parity |
+|Parity |相同，对等	|['pærəti]
+|Push| 推 | [pʊʃ]
+|Pull|拉|[pʊl]
+|Hex| 十六进制 |  [heks]
+|Tile| 贴片| [taɪl]
 
-#Assemble
+# Assemble
 
 |Registry|||
 |-|-|-|
@@ -138,7 +143,8 @@
 
 ----
 - $2^{4*x}$ 
-    - ${4*5}$ : 20为8086地址总线个数
+    - ${4*5}$ : 8086地址总线个数20
+    - ${4*4}$ : 8086数据总线个数16
     - $2^{4*2}$ 两位16进制数一个字节(存储单元)
 
 
