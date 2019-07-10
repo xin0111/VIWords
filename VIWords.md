@@ -77,6 +77,18 @@
 |Pull|拉|[pʊl]
 |Hex| 十六进制 |  [heks]
 |Tile| 贴片| [taɪl]
+|Complex|复数| ['kɒmpleks]
+| Real|实型 |[riːl]
+| Integer |  整型|
+|Precision|精度 |[prɪ'sɪʒ(ə)n]
+|Character| 字符型|  ['kærəktə]
+|Logical | 逻辑型| ['lɒdʒɪk(ə)l]
+|Dimension|维 |  [di'menʃən; dai-]
+|Parameter|参数|[pə'ræmɪtə]
+|Subroutine|子程序 | ['sʌbruːtiːn]
+|Matrix|矩阵 |['meɪtrɪks]
+|Stride| 跨步 | [straɪd]
+|Equivalence|等价| [ɪ'kwɪv(ə)l(ə)ns] 
 
 # Assemble
 
