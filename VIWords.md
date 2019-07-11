@@ -38,20 +38,19 @@
 |Vector| 矢量|['vektə]
 |Permission|许可| [pə'mɪʃ(ə)n]
 |Priority |优先级| [praɪ'ɒrɪtɪ]
-|Optimization|优化|
-|Tolerance|公差|
-|Segmentation|段|
-|Geometry|几何图形|
-|Effect|效果|
+|Optimization|最优化|[,ɒptɪmaɪ'zeɪʃən] 
+|Tolerance|公差| ['tɒl(ə)r(ə)ns]
+|Segment|段|['segm(ə)nt]
+|Geometry|几何图形|[dʒɪ'ɒmɪtrɪ]
+|Effect|效果|[ɪ'fekt] 
 |Blend|混合|[blend]
 |Mode|模式|[məʊd]
 |Scheme|方案| [skiːm]
 |Conditional|有条件的|[kən'dɪʃ(ə)n(ə)l]
 |Hash|散列|[hæʃ]
-|Iterator|迭代器|
+|Iterator|迭代器|[ɪtə'reɪtə]
 |Process|进程，过程| [prəˈses;(for n,)ˈprəʊses]
 |Thread|线程，螺纹| [θred]
-|Dart||[dɑːt]
 |Measurement|度量,尺寸| ['meʒəm(ə)nt]
 |Item|条款;逐条列出| ['aɪtəm]
 |Mutant|n.突变体|['mjuːt(ə)nt]
@@ -66,8 +65,8 @@
 |Interface|接口|['ɪntəfeɪs]
 |Intellisense| 智能感知 | [sens]
 |External| 外部| [ik'stə:nəl]
-|Crash|
-|Dump| | [dʌmp]
+|Crash|崩溃 | [kræʃ] 
+|Dump| 转储 | [dʌmp]
 |Offset|偏移| ['ɒfset]
 |Effective| 有效的| [ɪ'fektɪv]
 |Segment|n.段，vt.分割|['segm(ə)nt]
@@ -89,6 +88,15 @@
 |Matrix|矩阵 |['meɪtrɪks]
 |Stride| 跨步 | [straɪd]
 |Equivalence|等价| [ɪ'kwɪv(ə)l(ə)ns] 
+|Parity |奇偶性| ['pærɪtɪ]
+|Instruction|指令|[ɪn'strʌkʃ(ə)n] 
+|Dummy| 假的，仿真的 |['dʌmɪ] 
+|Pseudo| 虚伪的|['sjuːdəʊ]
+|Assume | 假设| [ə'sjuːm]
+|Executive|执行的|[ɪgˈzekjʊtɪv] 
+
+
+
 
 # Assemble
 
@@ -122,7 +130,7 @@
 |TF|Trap Flag|陷阱标志
 
 
-|Command|||
+|Pseudo instruction|||
 |-|-|-|
 |1|
 
