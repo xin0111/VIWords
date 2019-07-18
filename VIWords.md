@@ -12,7 +12,10 @@
 |QoS| Quaility of Service|质量服务
 |DCPS|Data-Centric Publish-Subscribe|以数据为中心的发布订阅
 |UML|Unified Modeling Language| 统一建模语言
-7
+|ACE||自适应通信环境
+|TAO |
+|RTPS |Real-Time Publish Subscribe|
+
 
 |Ｗｏｒｄ|||
 |-|-|-|
