@@ -102,6 +102,8 @@
 |Pseudo| 虚伪的|['sjuːdəʊ]
 |Assume | 假设| [ə'sjuːm]
 |Executive|执行的|[ɪgˈzekjʊtɪv] 
+|Domain||域
+|Subscribe||订阅
 
 
 
