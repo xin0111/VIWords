@@ -7,7 +7,12 @@
 |RAM|Random Access Memory|随机存储器
 |ROM|Read-Only Memory|只读内存
 |LIFO|Last In First Out|后进先出
-
+|DDS| Data Distribution Service|数据分发服务
+|OMG|Object Management Group|对象管理组织
+|QoS| Quaility of Service|质量服务
+|DCPS|Data-Centric Publish-Subscribe|以数据为中心的发布订阅
+|UML|Unified Modeling Language| 统一建模语言
+7
 
 |Ｗｏｒｄ|||
 |-|-|-|
