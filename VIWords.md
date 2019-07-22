@@ -142,7 +142,9 @@
 
 |Pseudo instruction|||
 |-|-|-|
-|1|
+|() | 描述性符号：一个寄存器或一个内存单元中的内容
+|idata|约定符号：表示常量 （立即数）
+|dw|define word|
 
 
 |Debug|||
