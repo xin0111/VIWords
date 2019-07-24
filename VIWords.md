@@ -104,6 +104,8 @@
 |Executive|执行的|[ɪgˈzekjʊtɪv] 
 |Domain||域
 |Subscribe||订阅
+|Crray| 进位
+|duplication|副本
 
 
 
@@ -145,6 +147,16 @@
 |() | 描述性符号：一个寄存器或一个内存单元中的内容
 |idata|约定符号：表示常量 （立即数）
 |dw|define word|
+|word/byte ptr|直接内存单元访问指令（部分），需要显性指明所要访问的内存单元的长度。
+|db|
+|dw|
+|dd|double word
+|dup|duplication
+|short|
+|near|
+|far|
+|dword|
+|jcxz| 有条件转移 (短转移） jump cx=zero
 
 
 |Debug|||
